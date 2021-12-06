@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(37, 31, 31);
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main_date {
+    width: 300px;
+    margin: 20px auto 0;
+    padding: 30px;
+    color: rgb(188, 233, 48);
+    border-radius: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.time{
+    width: 500px;
+    margin: 20px auto 0;
+    padding: 30px;
+    color: rgb(188, 233, 48);
+    border-radius: 20px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.stopwatch{
+    width: 500px;
+    margin: 20px auto 0;
+    padding: 30px;
+    color: rgb(188, 233, 48);
+    border-radius: 20px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.timer{
+    width: 500px;
+    margin: 20px auto 0;
+    padding: 30px;
+    color: rgb(188, 233, 48);
+    border-radius: 20px;
+    font-size: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.work_timer{
+    width: 500px;
+    margin: 20px auto 0;
+    padding: 30px;
+    color: rgb(188, 233, 48);
+    border-radius: 20px;
+    font-size: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
